@@ -32,3 +32,15 @@
 .post-area a:hover {
   color: #0D0017;
 }
+
+/* =============================
+ * Static Page, 静态页面用的css
+*/
+.static_page .header header {
+  background-color: #F5F5F5;
+}
+
+.static_page .content {
+  margin: 50px;
+}
+
