@@ -1,6 +1,6 @@
 ---
 layout: static_page
-title: 慧伦普斯-隐私协议
+title: 隐私协议
 ---
 
 <h3 style="text-align: center; margin-bottom: 30px;">西安慧伦普斯信息科技有限公司<br>用户隐私保护协议</h3>
