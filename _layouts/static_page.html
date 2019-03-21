@@ -1,13 +1,18 @@
 <!DOCTYPE html>
 <html class="no-js">
   <head>
-    {% include head.html %}
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/static_page.css" />
   </head>
   <body>
 
   <div class="static_page">
     <div class="header">
-      {% include header.html %}
     </div>
 
     <div class="content">
@@ -15,7 +20,11 @@
     </div>
   </div>
 
-    {% include footer.html %}
+		<footer>
+			<div>
+				Copyright © 西安慧伦普斯信息科技有限公司. All rights reserved.
+			</div>
+		</footer>
 
   </body>
 </html>

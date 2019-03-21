@@ -3,7 +3,7 @@ layout: static_page
 title: 慧伦普斯-隐私协议
 ---
 
-<h3 style="text-align: center; margin-bottom: 30px;">用户隐私保护协议</h3>
+<h3 style="text-align: center; margin-bottom: 30px;">西安慧伦普斯信息科技有限公司<br>用户隐私保护协议</h3>
 
 西安慧伦普斯信息科技有限公司（以下或称“我们”）注重保护用户个人信息及个人隐私。本隐私条款包含我们收集、处理、存储、使用、共享、转让、公开披露和保护用户（“您”）个人信息（以下或称“信息”）的有关条款。
 
